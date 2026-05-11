@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+urllib3
+pytrends
+scipy
+prophet
+scikit-learn
