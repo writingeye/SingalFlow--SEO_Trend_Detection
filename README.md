@@ -5,6 +5,7 @@ Instead of analysing keywords that already have established search volume, Signa
 How it works
 One seed keyword
       ↓
+
 Auto-expand to related keywords (Google Trends)
       ↓
 Fetch signals from 3 sources: Web Search · YouTube · News
